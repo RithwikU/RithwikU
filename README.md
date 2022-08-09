@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on 
+  - Autonomous GoKart
+  - Lossy sensor for medical rehabilation
+- 📫 How to reach me: rithwiku@seas.upenn.edu
 
 <!--
 **RithwikU/RithwikU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
