@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there
 - 🔭 I’m currently working on 
-  - Autonomous GoKart
-  - Lossy sensor for medical rehabilation
+  * Autonomous GoKart
+  * Lossy sensor for medical rehabilation
 - 📫 How to reach me: rithwiku@seas.upenn.edu
 
 <!--
