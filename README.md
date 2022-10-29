@@ -2,6 +2,7 @@
 - 🕸️ My personal website: https://rithwiku.github.io/
 - 🔭 I’m currently working on 
   * Autonomous GoKart
+  * SICK TiM$10K University Challenge - Autonomous garbage collection robot
   * Lossy sensor for medical rehabilation
   * Smart sensing toy for classifying infant interactions
 - 📫 How to reach me: rithwiku@seas.upenn.edu
