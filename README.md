@@ -1,11 +1,11 @@
 ### Hi there,
 - 🕸️ My personal website: https://rithwiku.github.io/
 - 🔭 I’m currently working on 
-  * Autonomous GoKart
   * SICK TiM$10K University Challenge - Autonomous garbage collection robot
   * Lossy sensor for medical rehabilation
   * Smart sensing toy for classifying infant interactions
-- 📫 How to reach me: rithwiku@seas.upenn.edu
+- 📫 How to reach me: rithwik.ugiri@gmail.com
+- 🤔 I’m looking for full-time opportunities in Robotics, Control, Planning and Autonomy
 
 <!--
 **RithwikU/RithwikU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
