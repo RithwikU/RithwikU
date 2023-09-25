@@ -1,5 +1,5 @@
 ### Hi there,
-- 🕸️ My personal website: https://rithwiku.github.io/ 
+- 🕸️ My personal website: [https://rithwiku.github.io/ ](https://www.rithwikudayagiri.com/)
 - https://www.grasp.upenn.edu/people/rithwik-udayagiri/
 - 🔭 I’m currently working on 
   * SICK TiM$10K University Challenge - Autonomous garbage collection robot
