@@ -1,9 +1,8 @@
 ### Hi there,
 - 🕸️ My personal website: [https://rithwiku.github.io/ ](https://www.rithwikudayagiri.com/)
 - https://www.grasp.upenn.edu/people/rithwik-udayagiri/
-- 🔭 I’m currently working on 
-  * SICK TiM$10K University Challenge - Autonomous garbage collection robot
-  * Lossy sensor for medical rehabilation
+- 🔭 I’m currently working on
+  * Upper limb rehabilitation robot with [Recupero Robotics](https://www.linkedin.com/company/recuperorobotics/mycompany/)
   * Smart sensing toy for classifying infant interactions
 - 📫 How to reach me: rithwik.ugiri@gmail.com
 - 🤔 I’m looking for full-time opportunities in Robotics, Control, Planning and Autonomy
